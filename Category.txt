@@ -1,0 +1,4 @@
+computers
+mobiles
+laptops
+books
